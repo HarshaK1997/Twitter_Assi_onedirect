@@ -3,7 +3,7 @@
 Description :
 ===========
 
-This Project is designed in pyCharm platform (python IDE).
+This Project is designed in pyCharm platform (python IDE) by Harsha.K
 
 Pre-requirements :
 ================
@@ -67,3 +67,6 @@ step 3 : right-click and select "Run Graphics.py" file.
 # Enjoy the twitter feed
 
 # Thank you
+
+###########
+HarshaK1997
